@@ -1,9 +1,11 @@
 '''
 SINGLE RESPONSABILITY PRINCIPLE
 
-Note que nessa classe, temos várias ações e responsabilidades. O que torna a manutenção, usabilidade e até a performance ruins.
+Note que nessa classe, temos várias ações e responsabilidades. 
+O que torna a manutenção, usabilidade e até a performance ruins.
 
-Seguindo o conceito do Princípio da Responsabilidade única, organize essa classe e, se necessário, crie outras 
+Seguindo o conceito do Princípio da Responsabilidade única, 
+organize essa classe e, se necessário, crie outras 
 classes com suas devidas responsabilidades.
 
 '''
